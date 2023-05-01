@@ -1,8 +1,9 @@
-[![MasterHead](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:1024/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I am Ticcer Company</h1>
 <h3 align="center">We are a software company operating in Azerbaijan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:1024/1*rB-3Q2k7o9qk8IyAzx-TRA.gif">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=ticcercompany&label=Profile%20views&color=0e75b6&style=flat" alt="ticcercompany" /> </p>
 
