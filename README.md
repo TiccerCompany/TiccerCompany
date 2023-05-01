@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I am Ticcer Company</h1>
 <h3 align="center">We are a software company operating in Azerbaijan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://blog.codingblocks.com/content/images/2019/01/download-1.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:1024/1*rB-3Q2k7o9qk8IyAzx-TRA.gif">
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=ticcercompany&label=Profile%20views&color=0e75b6&style=flat" alt="ticcercompany" /> </p>
 
