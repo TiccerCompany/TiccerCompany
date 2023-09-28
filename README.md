@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:1024/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://rishavchanda.io)
-<h1 align="center">Hello 👋, I am Ticcer Company</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, I am Ticcer Company</h1>
 <h3 align="center">We are a software company operating in Azerbaijan</h3>
 
 
